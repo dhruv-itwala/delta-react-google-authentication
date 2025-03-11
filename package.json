@@ -1,0 +1,23 @@
+{
+  "name": "delta-react-google-authentication",
+  "version": "1.1.4",
+  "description": "Google Sign-In authentication package for React, integrated with delta-google-authentication backend",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": [
+    "frontend",
+    "google-auth",
+    "react",
+    "oauth2",
+    "google-login",
+    "authentication",
+    "jwt",
+    "backend-integration"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "react": "^19.0.0"
+  }
+}
